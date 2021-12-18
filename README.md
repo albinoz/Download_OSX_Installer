@@ -20,4 +20,4 @@
 [macOS Big Sur 11.6.2](https://apps.apple.com/fr/app/macos-big-sur/id1526878132?mt=12) \
 [macOS Montarey 12.1](https://apps.apple.com/fr/app/macos-monterey/id1576738294?mt=12)
 
-``Links to Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Mavericks come from archive.org``
+``Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Mavericks links come from archive.org``
