@@ -2,7 +2,7 @@
 ####  macOS 10.2 < 12
 
 [OS X Jaguar 10.2 - Disc 1](https://archive.org/download/2Z691-3706-A/Mac%20OS%20X%20v10.2%20-%20Install%20Disc%201%20%5B2Z691-3706-A%5D.7z) [- Disc 2](https://archive.org/download/2Z691-3705-A/Mac%20OS%20X%20v10.2%20-%20Install%20Disc%202%20%5B2Z691-3705-A%5D.7z) \
-[OS X Panther 10.3 -Disc 1](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Upgrade%20Disc%201.dmg) [- Disc 2](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Install%20Disc%202.dmg) [- Disc 3](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Install%20Disc%203.dmg) \
+[OS X Panther 10.3 - Disc 1](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Upgrade%20Disc%201.dmg) [- Disc 2](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Install%20Disc%202.dmg) [- Disc 3](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Install%20Disc%203.dmg) \
 [OS X Tiger 10.4](https://archive.org/download/mac-os-x-tiger-intelppc/Tiger_4_6.dmg__0/Tiger_4_6.dmg) \
 [OS X Leopard 10.5](https://archive.org/download/Mac_OS_X_Leopard_Install_DVD_Version_10.5_2Z691-6037-A_Apple_Inc._2007/Mac%20OS%20X%20Leopard%20Install%20DVD%20Version%2010.5%20%282Z691-6037-A%29%20%28Apple%2C%20Inc.%29%282007%29.iso) \
 [OS X Snow Leopard 10.6.7](https://archive.org/download/osx-10.6.7-dvd/OSX_10.6.7.iso) \
