@@ -1,6 +1,7 @@
 ## Download OSX Installer
-####  macOS 10.1 < 12
+####  macOS 10 < 12
 
+[OS X Cheetah 10](https://archive.org/download/MacosX10.0dmgfile/Mac%20OS%20X%2010.0.zip) \
 [OS X Puma 10.1 - Disc 1](https://archive.org/download/mac-ox-x-10.1-internal-edition/Mac%20OS%20X%2010.1%20Puma%20Internal%20Edition.iso) [- Disc 2](https://archive.org/download/mac-ox-x-10.1-internal-edition/Mac%20OS%209.2.1%20Internal%20Edition.iso) [- Disc 3](https://archive.org/download/mac-ox-x-10.1-internal-edition/Apple%20Internal%20Use%20Software.iso) \
 [OS X Jaguar 10.2 - Disc 1](https://archive.org/download/2Z691-3706-A/Mac%20OS%20X%20v10.2%20-%20Install%20Disc%201%20%5B2Z691-3706-A%5D.7z) [- Disc 2](https://archive.org/download/2Z691-3705-A/Mac%20OS%20X%20v10.2%20-%20Install%20Disc%202%20%5B2Z691-3705-A%5D.7z) \
 [OS X Panther 10.3 - Disc 1](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Upgrade%20Disc%201.dmg) [- Disc 2](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Install%20Disc%202.dmg) [- Disc 3](https://archive.org/download/MacOSX10.3-Panther-2Z691-4633-A_2Z691-4586-A_2Z691-4587-A/Mac%20OS%20X%20Install%20Disc%203.dmg) \
@@ -19,5 +20,5 @@
 [macOS Big Sur 11.6.2](https://apps.apple.com/fr/app/macos-big-sur/id1526878132?mt=12) \
 [macOS Montarey 12.1](https://apps.apple.com/fr/app/macos-monterey/id1576738294?mt=12)
 
-######  OS X Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard & Mavericks Apple Link not found, Download Link come from archive.org
+######  OS X Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard & Mavericks Apple Link not found, Download Link come from archive.org
 ######  Last Update 18/12/2021
