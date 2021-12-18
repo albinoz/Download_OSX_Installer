@@ -15,4 +15,4 @@
 [macOS Big Sur 11.6.2](https://apps.apple.com/fr/app/macos-big-sur/id1526878132?mt=12) \
 [macOS Montarey 12.1](https://apps.apple.com/fr/app/macos-monterey/id1576738294?mt=12)
 
-######  OS X Snow Leopard & Maverricks Apple Link not found, Download Link from archive.org
+######  OS X Snow Leopard & Mavericks Apple Link not found, Download Link from archive.org
