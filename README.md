@@ -17,7 +17,7 @@
 [macOS High Sierra 10.13.6](https://apps.apple.com/fr/app/macos-high-sierra/id1246284741?mt=12) \
 [macOS Mojave 10.14.6](https://apps.apple.com/fr/app/macos-mojave/id1398502828?mt=12) \
 [macOS Catalina 10.15.7](https://apps.apple.com/fr/app/macos-catalina/id1466841314?mt=12) \
-[macOS Big Sur 11.6.2](https://apps.apple.com/fr/app/macos-big-sur/id1526878132?mt=12) \
-[macOS Monterey 12.1](https://apps.apple.com/fr/app/macos-monterey/id1576738294?mt=12)
+[macOS Big Sur 11](https://apps.apple.com/fr/app/macos-big-sur/id1526878132?mt=12) \
+[macOS Monterey 12](https://apps.apple.com/fr/app/macos-monterey/id1576738294?mt=12)
 
 ``Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Mavericks links come from archive.org``
