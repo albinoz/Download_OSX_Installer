@@ -1,5 +1,5 @@
-## ⚓️ Download OSX Installers
-#### OS 10.X < 12.X
+## ⚓️ Download macOS Installers
+#### OS 10.X < 14
 
 [OS X Cheetah 10](https://archive.org/download/MacosX10.0dmgfile/Mac%20OS%20X%2010.0.zip) \
 [OS X Puma 10.1 - Disc 1](https://archive.org/download/mac-ox-x-10.1-internal-edition/Mac%20OS%20X%2010.1%20Puma%20Internal%20Edition.iso) [- Disc 2](https://archive.org/download/mac-ox-x-10.1-internal-edition/Mac%20OS%209.2.1%20Internal%20Edition.iso) [- Disc 3](https://archive.org/download/mac-ox-x-10.1-internal-edition/Apple%20Internal%20Use%20Software.iso) \
@@ -19,5 +19,7 @@
 [macOS Catalina 10.15.7](https://apps.apple.com/fr/app/macos-catalina/id1466841314?mt=12) \
 [macOS Big Sur 11](https://apps.apple.com/fr/app/macos-big-sur/id1526878132?mt=12) \
 [macOS Monterey 12](https://apps.apple.com/fr/app/macos-monterey/id1576738294?mt=12)
+[macOS Ventura 13](https://apps.apple.com/fr/app/macos-ventura/id1638787999?mt=12)
+[macOS Sonoma 14](https://apps.apple.com/fr/app/macos-sonoma/id6450717509?mt=12)
 
 ``Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Mavericks links come from archive.org``
